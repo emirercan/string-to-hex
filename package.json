@@ -1,5 +1,5 @@
 {
-  "name": "string-to-hex",
+  "name": "node-red-contrib-string-to-hex",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

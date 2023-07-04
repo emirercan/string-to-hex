@@ -7,5 +7,5 @@ module.exports = function(RED) {
             node.send(msg);
         });
     }
-    RED.nodes.registerType("lower-to-hex",StringToHexNode);
+    RED.nodes.registerType("string-to-hex",StringToHexNode);
 }
